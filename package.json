@@ -3,6 +3,7 @@
 	"description": "This is a project that does things",
 	"keywords": ["this","describes","freecodecamp"],
 	"license": "Me",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
